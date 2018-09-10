@@ -2,8 +2,8 @@ from datetime import datetime
 
 start = datetime.now()
 lap_timestamp = start
-print ('Stopwatch is running. Press enter for lap time.')
-print ('Input anthing else to stop the watch.')
+print('Stopwatch is running. Press enter for lap time.')
+print('Input anything else to stop the watch.')
 
 laps = 0
 
